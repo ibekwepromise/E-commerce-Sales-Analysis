@@ -48,16 +48,17 @@ In order to tackle this business problem, I will be answering the following busi
 2.	Total Profit = $5.67M
 3.	Number of Products= 1,849
 4.	Number of items sold= 118,186
-5.	No dataset for the years 2019 and 2020
-6.	The total sales in 2015 were $361,183.17, which were similar to the sales in 2016 at $356,349.02. However, there was a notable increase in 2017 with total sales of $444,907.42, followed by an even greater increase in 2018 with $600,314.82 in total sales. There was another significant surge in 2021 with total sales of $20,468,730.73, and this continued into 2022 with total sales of $22,498,092.
-7.	Presence of outliers in sales per order.
+5. Maximum delivery time is 329days
+6.	No dataset for the years 2019 and 2020
+7.	The total sales in 2015 were $361,183.17, which were similar to the sales in 2016 at $356,349.02. However, there was a notable increase in 2017 with total sales of $444,907.42, followed by an even greater increase in 2018 with $600,314.82 in total sales. There was another significant surge in 2021 with total sales of $20,468,730.73, and this continued into 2022 with total sales of $22,498,092.
+8.	Presence of outliers in sales per order.
 
 ## ANALYSIS AND INSIGHTS
 1. What is top 5 selling products?
 
 ![](Top5_Products.PNG)
    
-The analysis shows staples brought in the highest revenue, following by staples envelope, Easy-staple paper, Avery non-sticker binders and Staples in misc. colors.
+The analysis shows staples brought in the highest revenue with $224,564.16, following by staples envelope, Easy-staple paper, Avery non-sticker binders and Staples in misc.colors.
 
 
 2. What are the average sales per each product category?
@@ -92,7 +93,7 @@ The distribution of sales per order exhibits a typical pattern, with the majorit
 
 ![](Customer_segment.PNG)
     
-The analysis reveals that the consumer segment significantly outperforms other customer segments, making the highest contribution to overall sales. In comparison, the cooperate and home office segments, while substantial contributors, exhibits lower sales figures. 
+The analysis reveals that the consumer segment significantly outperforms other customer segments with $22.99M, making the highest contribution to overall sales. In comparison, the cooperate and home office segments, while substantial contributors, exhibits lower sales figures. 
 
 7.	How does order item discount affect both sales per order and profit per order?
 
