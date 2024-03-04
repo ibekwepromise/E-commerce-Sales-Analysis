@@ -115,12 +115,12 @@ The regional analysis spotlights the West as a stand out performer in terms of s
 
 
 ## RECOMMENDATION
-1.	Continue to strategically use promotions and discounts, considering what worked well during the surge in 2021-2022. Experiment with different discount structures and promotional campaigns.
+1.	Continue to strategically use promotions, considering what worked well during the surge in 2021-2022. Experiment with different promotional campaigns.
 2.	Invest in optimizing e-commerce platforms for a seamless and user-friendly experience. Ensure that product pages, checkout processes, and overall website navigation are intuitive and efficient.
-3.	Striking an optimal discount level is crucial to maintain profitability. Business should carefully evaluate the trade-offs, seeking a strategic approach that balances boosts sales with sustainable profit margins for long-term financial health.
+3.	Striking an optimal discount level to maintain profitability, should carefully evaluate the trade-offs, seeking a strategic approach that balances boosts sales with sustainable profit margins for long-term financial health.
 4.	Understanding top buying customers like their preferences, purchase patterns, and engagement can offer strategic insights for personalized marketing, loyalty programs, and targeted initiatives.
  By nurturing relationships with these high-value customers, business have an opportunity to enhance customer satisfaction, foster loyalty, and potentially unlock additional revenue streams.
-6.	The insight on high performing region, I recommend creating opportunities for strategic focus on high-performing regions and targeted initiatives to boost sales.
+6.	Creating opportunities for strategic focus on high-performing regions and targeted initiatives to boost sales.
 7.	Improving the supply chain to handle increased demand efficiently. Consider partnerships, diversification of suppliers, and inventory management tools to ensure product availability.
 8.	There should be a focused attention on optimizing shipping processes, particularly in the standard class, to enhance on time deliveries and mitigate cancellations.
 
