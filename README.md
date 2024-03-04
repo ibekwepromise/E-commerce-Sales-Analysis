@@ -15,6 +15,8 @@ The dataset underwent rigorous cleaning and preprocessing to ensure accuracy and
 - Renamed columns properly, trimmed to remove extra spaces, removed duplicates on unique column like “Order ID”, capitalized each word after spaces and made sure each columns have its data type identified correctly.
 - In “Product Category” column, changed about 13 rows containing ‘Tech’ to ‘Technology’ by filtering and selecting replace values options.
 
+![](category_clean.PNG)
+
  Above cleaning was also applied on ‘furnitures’ with 20 rows and was replaced ‘Furniture’, also ‘Home’ to ‘Home office’ in “Customer Segment” column, ‘Late’ to ‘Late Delivery’ in “Delivery Status” column.
 -	Clicked on Load and applied the changes.
 -	Loaded the cleaned dataset to Power bi and created new calculated columns for the following;
@@ -22,6 +24,10 @@ The dataset underwent rigorous cleaning and preprocessing to ensure accuracy and
 2.	“Total Profit” = Profit_Per_Order * Order_Quantity
 3.	To get the maximum and minimum time, used the “DATEDIFF” function
 Delivery Time = DATEDIFF([Order_Date], [Ship_Date], Day)
+
+cleaned dataset
+
+![](Cleaned_dataset.PNG)
 
 ## BUSINESS TASK
 The goal of this data analysis is to delve into the intricacies of E-commerce sales to identify overall sales trends and exploiting data-driven insights to identify potential areas of improvement.
@@ -48,41 +54,61 @@ In order to tackle this business problem, I will be answering the following busi
 
 ## ANALYSIS AND INSIGHTS
 1. What is top 5 selling products?
+
+![](Top5_Products.PNG)
    
 The analysis shows staples brought in the highest revenue, following by staples envelope, Easy-staple paper, Avery non-sticker binders and Staples in misc. colors.
 
 
 2. What are the average sales per each product category?
+
+![](Average_sales.PNG)
    
 Analyzing the average sales per product category provides valuable insights into the relative performance of different categories. 
 
 The analysis of average sales per product category unveils that the Office Supplies category dominates with an average of $26,897,432.1, significantly surpassing both Furniture at $9,683,591.57 and Technology at $8,148,554.2.
 
 3.	Top 10 customers in terms of sales generated?
+
+![](Top_customers.PNG)
    
 The top 10 customers significantly contribute to overall sales, indicating a concentrated purchases power.
 
 4.	What is the overall trend in sales over time?
+
+![](Monthly_salestrend.PNG)
+
+![](Yearly_Salestrend.PNG)
    
 The sales trend has shown a consistent increase in total sales over the years, with a significant increase from 2015 to 2018. However, an exceptional surge is observed in 2021 and 2022, indicating a significant sales leap.
 
 5.	What is the distribution of sales per order?
+
+![](Dist_Of_PerOrder.PNG)
    
 The distribution of sales per order exhibits a typical pattern, with the majority of orders falling within a certain range. However, the presence of three notable outliers suggests instances where individual orders significantly deviate from the norm.
 
 6.	Which customer segments contribute the most to overall sales, and how do they compare to one another?
+
+![](Customer_segment.PNG)
     
 The analysis reveals that the consumer segment significantly outperforms other customer segments, making the highest contribution to overall sales. In comparison, the cooperate and home office segments, while substantial contributors, exhibits lower sales figures. 
 
 7.	How does order item discount affect both sales per order and profit per order?
+
+![](Effect_OF_Discount.PNG)
    
 The analysis highlights that offering high discounts has a dual negative effect on both sales and profits. While it may attract more sales, the considerable reduction in profit margins raises concerns.
 
 8.	How do different shipping types impact the delivery status of orders?
+
+![](Impact_ofshiptype.PNG)
    
 The analysis shows that in standard class, Advanced shipping and late delivery exhibit higher counts, indicating potential issues in timely deliveries. For first and second classes, the data suggests variations, highlighting the need for a targeted approach to optimize shipping processes.
 
 9.	Are there any customer regions that stand out in terms of sales performance?
+
+![](Regions.PNG)
     
 The regional analysis spotlights the West as a stand out performer in terms of sales, leading with $14.42M. following closely the East contributed significantly with $12.7M, while the Central region follow with $10.35M. In contrast, the South region, while contributing, lags behind with $7.27M. 
 
@@ -96,5 +122,9 @@ The regional analysis spotlights the West as a stand out performer in terms of s
 6.	The insight on high performing region, I recommend creating opportunities for strategic focus on high-performing regions and targeted initiatives to boost sales.
 7.	Improving the supply chain to handle increased demand efficiently. Consider partnerships, diversification of suppliers, and inventory management tools to ensure product availability.
 8.	There should be a focused attention on optimizing shipping processes, particularly in the standard class, to enhance on time deliveries and mitigate cancellations.
+
+
+## DASHBOARD
+![](Page1.PNG)
 
 *[View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiOTFmMzZiNGQtNWI3Yi00NzNiLWJiZWEtZjcxM2JjOWQ3OGYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)*
