@@ -96,3 +96,5 @@ The regional analysis spotlights the West as a stand out performer in terms of s
 6.	The insight on high performing region, I recommend creating opportunities for strategic focus on high-performing regions and targeted initiatives to boost sales.
 7.	Improving the supply chain to handle increased demand efficiently. Consider partnerships, diversification of suppliers, and inventory management tools to ensure product availability.
 8.	There should be a focused attention on optimizing shipping processes, particularly in the standard class, to enhance on time deliveries and mitigate cancellations.
+
+*[View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiOTFmMzZiNGQtNWI3Yi00NzNiLWJiZWEtZjcxM2JjOWQ3OGYwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)*
