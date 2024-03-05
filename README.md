@@ -120,6 +120,7 @@ The regional analysis spotlights the West as a stand out performer in terms of s
 3.	Striking an optimal discount level to maintain profitability, should carefully evaluate the trade-offs, seeking a strategic approach that balances boosts sales with sustainable profit margins for long-term financial health.
 4.	Understanding top buying customers like their preferences, purchase patterns, and engagement can offer strategic insights for personalized marketing, loyalty programs, and targeted initiatives.
  By nurturing relationships with these high-value customers, business have an opportunity to enhance customer satisfaction, foster loyalty, and potentially unlock additional revenue streams.
+5. Tailor marketing efforts to consumer and corporate segments, exploring home office growth.
 6.	Creating opportunities for strategic focus on high-performing regions and targeted initiatives to boost sales.
 7.	Improving the supply chain to handle increased demand efficiently. Consider partnerships, diversification of suppliers, and inventory management tools to ensure product availability.
 8.	There should be a focused attention on optimizing shipping processes, particularly in the standard class, to enhance on time deliveries and mitigate cancellations.
